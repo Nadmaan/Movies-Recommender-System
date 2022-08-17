@@ -1,1 +1,1 @@
-# Movie-Recommender-System-End-to-End-Project
+# Movie Recommender System
